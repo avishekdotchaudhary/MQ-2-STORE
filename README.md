@@ -28,7 +28,7 @@ It’s ideal for use cases that require reliable message handling and persistenc
    cd MQ-2-STORE
 - Build wheel package
     ```sh
-    python setup.py bdist_whell
+    python setup.py bdist_wheel
 - Install wheel package via `pip`:
     ```sh
     pip install mq_app-1.0.0-py3-none-any.whl
