@@ -1,0 +1,6 @@
+
+cdd:
+  logging:
+    DOC__level: "Level hierarchy 1. DEBUG, 2. INFO, 3. WARNING, 4. ERROR, 5. CRITICAL, If level is DEBUG then it will include all the level"
+    level: INFO # It will print in console
+    rotating_level: DEBUG # It will print in log file
